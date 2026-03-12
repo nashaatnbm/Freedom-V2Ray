@@ -86,6 +86,7 @@ trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@39.earths.team:443?security=tls#%F
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1238
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8517
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8519
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru#%F0%9F%87%AE%F0%9F%87%B8IS-167.17.185.152-4702
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#%F0%9F%87%AE%F0%9F%87%B8IS-167.17.185.169-0608
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8IS-167.17.185.172-0606
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8IS-167.17.185.228-4704
@@ -112,7 +113,6 @@ trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=ww
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7927
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.106.99:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0865
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0400
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-1696
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.189-0276
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.2-0375
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 104.18.32.47
@@ -135,7 +135,6 @@ trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcor
 trojan://telegram-id-directvpn@13.39.53.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.53.66
 trojan://telegram-id-directvpn@52.28.114.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.28.114.17
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.53.66
-trojan://telegram-id-privatevpns@52.28.114.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.28.114.17
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0408
 trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-154.17.24.29-4652
 trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-138.124.183.226-2346
