@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.22.33:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.22.33
 vless://0763477d-7e67-49f1-a855-cdff82b59e43@s10.x2fast.top:443?encryption=none&type=ws&host=s10.x2fast.top&path=/&security=tls&fp=chrome&sni=s10.x2fast.top&alpn=h2,http/1.1#🇮🇷 IR | 185.143.233.235
 vless://0763477d-7e67-49f1-a855-cdff82b59e43@s10.x2fast.top:443?encryption=none&type=ws&host=s10.x2fast.top&path=/&security=tls&fp=chrome&sni=s10.x2fast.top&alpn=h2,http/1.1#🇮🇷 IR | 185.143.234.235
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ghgifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.147.22
@@ -59,7 +60,6 @@ vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&se
 vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
 vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?path=/eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=002.w4wl4v1cptky.workers.dev&fp=chrome&type=ws&sni=002.w4WL4V1cpTKY.wOrKers.dev#🇨🇦 CA | 172.64.155.209
 vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi3.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#🇩🇪 DE | 31.185.108.17
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://7a3fad31-090a-4390-8977-9b8218fb02be@185.39.204.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun1-90.userapi.com&fp=chrome&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw#🇹🇷 TR | 185.39.204.27
 vless://7cc8cd28-0311-43b4-9b7f-223b3afb4635@snapp.ir:80?encryption=none&type=ws&host=ar.liarashop.ir&path=/&security=none#🇮🇷 IR | 185.143.233.122
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#🇨🇦 CA | 172.64.86.167
