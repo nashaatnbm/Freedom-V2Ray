@@ -46,7 +46,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.239.116:443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@149.104.25.35:15124?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK-149.104.25.35-1699
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.152.23:2096?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.64.152.23-1701
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0848
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.147.163.152:25258?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US-38.147.163.152-1698
 trojan://8r%3C%5B9%27l6hAO%238ZQi@65.109.186.249:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.186.249-1683
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.164.55.80:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-95.164.55.80-1679
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-7920
@@ -92,7 +91,6 @@ trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-4985
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-4987
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru#%F0%9F%87%A7%F0%9F%87%ACBG-78.159.131.12-0832
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6829
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.184.22.123-4639
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.222.125-4615
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.59-4616
@@ -140,4 +138,6 @@ trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-v2rayvpnchannel@51.44.115.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.115.172
 trojan://telegram-id-v2rayvpnchannel@63.184.147.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.184.147.157
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-4986
+trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-2299
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8668
+trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8664
