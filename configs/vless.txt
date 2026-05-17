@@ -1,11 +1,11 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.26.137:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.26.137
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.67.75:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.74.67.75
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ghgifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.148.22
 vless://08cd588d-8923-40fb-8216-c5a112a259b9@www.varzesh3.com:2095?path=/chat?ed=128&security=&encryption=none&host=dl2.mizbanertebatfarda.ir&type=ws#🇮🇷 IR | 185.143.232.201
-vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?path=/Embestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#🇮🇷 IR | 185.143.233.122
-vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?path=/Embestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?type=ws&encryption=none&path=/Embestpro1&host=Cyrus.zomavo.ir&security=none#🇮🇷 IR | 185.143.233.122
 vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?type=ws&encryption=none&path=/Embestpro1&host=Cyrus.zomavo.ir&security=none#🇮🇷 IR | 185.143.234.122
+vless://0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=@vmesskhodam#🇮🇷 IR | 185.143.233.200
 vless://0d8a0803-8db1-4f91-92d7-e04ce32606f2@snapp.ir:80?encryption=none&type=ws&path=/#🇮🇷 IR | 185.143.234.122
 vless://0da640df-a497-4ec2-8705-707c44705f47@fastly1.hamrahflow.ir:443?path=/&security=tls&encryption=none&host=Valsiin.com&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.155.104
 vless://0dbe1ae8-e9a6-4f48-aa52-4dd2c7dd949e@185.143.233.5:2087?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#🇮🇷 IR | 185.143.233.5
@@ -54,6 +54,7 @@ vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&ty
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.20.6.134:2053?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com&type=xhttp&allowInsecure=0&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com#🇨🇦 CA | 104.20.6.134
 vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80/?type=ws&encryption=none&flow=&path=/#🇮🇷 IR | 185.143.234.236
 vless://5d94178f-4236-4ab1-8e67-755acb2c1ca0@172.64.152.23:2053?path=/NitroServer&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=nitronetwork.nitromobile.online&fp=chrome&type=ws&allowInsecure=1&sni=nitronetwork1.nitromobile.online#🇨🇦 CA | 172.64.152.23
+vless://601ed233-56e7-4f7a-b486-06ed55f1cec0@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=fn.8lack.ir#🇮🇷 IR | 185.143.233.5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇨🇦 CA | 104.18.13.149
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🇨🇦 CA | 104.18.13.149
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🇨🇦 CA | 104.18.13.149
