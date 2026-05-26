@@ -1,7 +1,5 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.15.12:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.176.15.12
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=/&type=tcp&sni=digg.com&sid=99d38a68#🇩🇪 DE | 172.104.148.48
-vless://09a87b3f-289d-487f-99da-486698b43bc2@snapp.ir:80?path=/hajiiiips&security=none&encryption=none&host=arad.starweb.sbs&type=ws#🇮🇷 IR | 185.143.233.122
 vless://0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=@vmesskhodam#🇮🇷 IR | 185.143.234.200
 vless://0da640df-a497-4ec2-8705-707c44705f47@fastly1.hamrahflow.ir:443?path=/&security=tls&encryption=none&host=Valsiin.com&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.155.104
 vless://0ecb2769-9d3c-4ed3-9ffd-88a96f90f30a@abr.superip.ir:2082?path=/API/superip&security=none&encryption=none&host=brand.bi6x.ir&type=ws#🇮🇷 IR | 185.143.234.200
@@ -40,7 +38,6 @@ vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&ty
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?path=/ed=2560&security=none&encryption=none&host=Kingdom.turbooo-server.com&type=ws#🇨🇦 CA | 104.19.229.21
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:8443?path=/&security=tls&encryption=none&insecure=0&host=Kingdom.turbooo-server.com&type=ws&allowInsecure=0&sni=Kingdom.turbooo-server.com#🇨🇦 CA | 104.19.229.21
 vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=/wskhan&security=none&encryption=none&host=mdproxyi.ir&type=ws#🇮🇷 IR | 185.143.233.122
-vless://5cc11f00-697c-4932-8553-fb2e37e61f6b@Snapp.ir:2052?path=/vmMarketlabs&security=&encryption=none&host=info.drevnelo.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://5d94178f-4236-4ab1-8e67-755acb2c1ca0@172.64.152.23:2053?path=/NitroServer&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=nitronetwork.nitromobile.online&fp=chrome&type=ws&allowInsecure=1&sni=nitronetwork1.nitromobile.online#🇨🇦 CA | 172.64.152.23
 vless://601ed233-56e7-4f7a-b486-06ed55f1cec0@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=fn.8lack.ir#🇮🇷 IR | 185.143.233.5
 vless://61a302fb-c328-4d55-bf64-db8cb87020ad@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#🇮🇷 IR | 185.143.234.122
@@ -90,11 +87,9 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&sec
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 vless://b7c8d9e0-f1g2-3h4i-5j6k-7l8m9n0o1p2q@188.114.96.4:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wallweb.wyxalao.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=wallweb.wyxalao.workers.dev#🇨🇦 CA | 188.114.96.4
 vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:2052?path=/&security=none&encryption=none&host=weed2.torkonlineshop.ir&type=ws#🇮🇷 IR | 185.143.234.122
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
 vless://be0bff33-a095-4f82-9edb-9073c3ba08af@arvan1.un1ty.ir:80?encryption=none&host=&path=/jesuschrist&security=none&type=ws#🇮🇷 IR | 185.226.140.40
 vless://c0f3c044-781c-4473-996c-91ad8df6b362@VARZESH3.COM:2083?path=/&security=tls&encryption=none&host=G3.artarona.ir&type=ws&sni=G3.artarona.ir#🇮🇷 IR | 185.143.232.201
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#🇮🇷 IR | 185.143.232.201
 vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#🇮🇷 IR | 185.143.235.201
 vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=nmcior945cnfastmciedjed834.global.ssl.fastly.net&type=xhttp#🇨🇦 CA | 151.101.3.8
 vless://cc06d694-3d3f-4149-97de-4693ce3478f8@185.143.234.113:443?path=/&security=tls&encryption=none&insecure=0&host=fiarsh.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=fiarsh.parhamm2.ir#🇮🇷 IR | 185.143.234.113
