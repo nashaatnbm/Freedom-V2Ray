@@ -3,6 +3,7 @@ vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=real
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.249.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.249.118
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.177.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.177.190
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
+vless://083c7724-d08f-4e0d-9712-3208abcf04d0@185.143.233.202:443?path=/ed=2080&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=1&sni=cyrus.frtshop.ir#🇮🇷 IR | 185.143.233.202
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#🏴‍☠️ UN | 172.66.213.209
 vless://09387f07-5bf2-4486-9bb7-f49b959ed48f@safe.zdshop.ir:2053?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇸🇨 SC | 45.130.125.69
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
@@ -66,7 +67,6 @@ vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&secu
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?security=tls&encryption=none&type=ws&host=azadnet05.pages.dev&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev&fp=chrome#🇨🇦 CA | 172.66.47.175
 vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=/&security=none&encryption=none&type=ws#🇩🇪 DE | 91.99.145.207
-vless://4e735fe4-8f1a-48c6-ad74-105d27bcac47@188.119.149.107:8080?mode=stream-up&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.ptkRuh9AoHpb2JVUfhTNsRSz6kNB_Y73KPrTRBf0n30&pbk=yayKH2o4A14YdKmodBu5apEYZnpUvaEruYV53EYOTkQ&host=icloud.com&fp=random&spx=/&type=xhttp&sni=www.icloud.com&sid=a8dad80f5b9939#🇬🇧 GB | 188.119.149.107
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&type=tcp&sni=yahoo.com&sid=52a6#🇳🇱 NL | 147.45.145.127
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.148
@@ -145,6 +145,7 @@ vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?mode=gun&securi
 vless://b6991657-4257-4b34-a8c3-a3290d23c05b@176.122.25.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=z-Ov6K0L43xnjJ6RoZHRIa02pL4A6FRsEF8tqAKMnC0&sid=1a01c00ca256f6&spx=/&type=tcp&headerType=none#🇷🇺 RU | 176.122.25.12
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 LV | 91.218.143.194
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#🏴‍☠️ UN | pl.fantoff.online
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
 vless://be5851ff-9af5-45ea-b874-a0a035714114@172.67.74.10:8443?path=/admin.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#🇨🇦 CA | 172.67.74.10
 vless://c31000d2-0c0d-4e26-ac26-d168530ffe54@95.182.82.78:80?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | 95.182.82.78
