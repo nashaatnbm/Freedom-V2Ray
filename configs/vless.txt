@@ -2,7 +2,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=/&security=&en
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?encryption=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#🇺🇸 US | 151.101.109.223
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦 CA | 199.232.197.131
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?encryption=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#🇨🇦 CA | 2606:4700:20::681a:f89
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.52.245:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.52.245
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.49.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.49.57
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#🇨🇦 CA | 172.66.213.209
@@ -64,7 +63,6 @@ vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&securi
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🏴‍☠️ UN | vxc.galardoxtn.ir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇨🇦 CA | 104.18.13.149
 vless://62f84170-36b0-47a8-80dd-9d369ad83bcc@88.99.73.167:80?path=/evilcu&security=none&encryption=none&host=its.realreza.ir&type=ws#🇩🇪 DE | 88.99.73.167
-vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇧🇪 BE | 188.95.12.110
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.ru&fp=chrome&security=reality&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&sid=8237eb#🇪🇸 ES | 195.96.132.125
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=/45.76.183.217=49292&security=tls&encryption=none&host=delta090.qzz.io&fp=chrome&type=ws&sni=delta090.qzz.io#🇨🇦 CA | 188.114.98.0
@@ -92,7 +90,6 @@ vless://8c641e21-8701-45db-a41b-5c0a906a2433@lumora29.playon.ir:2087?alpn=http/1
 vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9#🇩🇪 DE | 178.17.50.128
 vless://8d1803b9-f9ff-4c09-a6d0-aceb98c4a019@de.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.srv.anti-zapret.com&sid=58fbcddfaae3ade9#🇩🇪 DE | 95.85.235.132
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 IT | 151.115.167.190
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 IT | 151.115.164.36
 vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.234.122
 vless://9124da39-484f-416a-b8fe-2406d9ce9600@185.143.232.122:80?path=/news&security=none&encryption=none&host=out10.pasargardnet.ir&type=ws#🇮🇷 IR | 185.143.232.122
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#🇳🇱 NL | 46.229.243.132
@@ -113,7 +110,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?securi
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?security=reality&encryption=none&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&headerType=none&fp=chrome&spx=/tkCuXHzEiHKv9Vq&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=e13b512565#🇵🇱 PL | 82.40.62.167
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://97860970-cda9-4877-b626-431fb3c81e12@snappfood.ir:80?type=ws&encryption=none&path=/ws&host=bmi.ir.vaslvip.ir&security=none#🇮🇷 IR | 185.143.234.122
-vless://9c8bf6ca-5b56-4f0b-ba22-a2ecd0282daf@host.rent-home-now.com:443?security=reality&encryption=none&pbk=gJjDGu05qCVpcJMcBJKwNmUgueWgr9-6SdTrZieuVwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=6186#🇳🇱 NL | 193.228.169.218
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | 204.216.216.23
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=stream-one&path=/assignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=www.middle.cc.cd&fp=firefox&type=xhttp&allowInsecure=0&sni=www.middle.cc.cd#🇨🇦 CA | 188.114.97.6
 vless://Argooovpnbiajoinshoo@188.114.97.6:8443?alpn=http/1.1&encryption=none&fp=chrome&host=argoovpn.imanaghapour.ir&path=/&security=tls&sni=argoovpn.imanaghapour.ir&type=ws#🇨🇦 CA | 188.114.97.6
@@ -161,7 +157,6 @@ vless://d45663d9-2874-4f8d-9c41-acf5557ac82d@188.114.97.6:2083?mode=auto&path=/&
 vless://d4b0e9c8-c694-47fb-8952-fe15d595898e@add.marketvps.ir:2053?path=/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=add.marketvps.ir#🇩🇪 DE | 185.250.41.221
 vless://d644824c-7f7c-4b48-87da-d988722082cb@188.114.97.6:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=1&host=sabkpo.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sabkpo.tll-far.ir#🇨🇦 CA | 188.114.97.6
 vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#🇸🇨 SC | 45.130.125.66
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#🇩🇪 DE | 162.19.228.119
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 2606:4700:20::ac43:42b1
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
