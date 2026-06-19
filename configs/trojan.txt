@@ -36,11 +36,13 @@ trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.17.14.241:443?security=tls&sni
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.17.29.221:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US-154.17.29.221-0821
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.82.11:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US-154.21.82.11-0887
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.21.94.7:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US-154.21.94.7-0877
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@154.26.186.47:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US-154.26.186.47-0881
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@156.246.89.197:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-156.246.89.197-0815
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@156.246.93.48:2053?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-156.246.93.48-0867
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@158.247.240.204:8443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.240.204-0890
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@161.33.14.183:8443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-161.33.14.183-0824
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@161.33.3.222:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-161.33.3.222-0864
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@161.33.46.100:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-161.33.46.100-0818
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@167.179.67.91:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-167.179.67.91-0908
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@167.179.82.79:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP-167.179.82.79-0903
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@174.136.205.75:443?security=tls&sni=jy.hhllfly.kdns.fr&type=ws&path=%2F%3Fed%3D2048&Host=jy.hhllfly.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8US-174.136.205.75-0847
@@ -160,7 +162,6 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-23.227.193.173-4590
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0809
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0811
-trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-7781
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.180-6323
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0775
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-0574
@@ -234,7 +235,6 @@ trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38
 trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.170.104-8245
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-7484
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.171.167-8243
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-7486
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#%F0%9F%8F%81RELAY-188.114.97.6-0806
