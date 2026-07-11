@@ -120,6 +120,7 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?encryption=none&
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#🇨🇦 CA | 173.245.59.162
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws#🇨🇦 CA | 173.245.59.162
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 US | 137.184.218.169
+vless://cd8af747-115f-403f-aa72-0ad3aac3ec2e@snapp.ir:8080?path=/&security=&encryption=none&host=arvan1.snllshop.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://cda9ae20-f69f-4112-be95-90cdfc7a21ae@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/&security=none#🇨🇦 CA | 172.66.156.81
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@212.18.104.39:443?security=reality&encryption=none&pbk=aUS8mT0VSLw8-Y-VyOWpf_gYQu6SIBipZL08CXsGXSk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us-3.quillrook.com&sid=81b5b012#🇺🇸 US | 212.18.104.39
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@assets.fiverr.com:443?path=/api-BlueKnight&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tb.suzyyso.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=tb.suzyyso.dpdns.org#🇨🇦 CA | 104.18.113.47
@@ -141,6 +142,7 @@ vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&
 vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇨🇦 CA | 172.67.65.158
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?&headerType=http&type=tcp#🇫🇮 FI | 45.38.170.230
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?&headerType=http&type=tcp#🇫🇷 FR | 95.182.98.231
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?&headerType=http&type=tcp#🇺🇸 US | 104.253.74.136
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🇫🇮 FI | 31.56.227.162
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇺🇸 US | 104.253.74.136
