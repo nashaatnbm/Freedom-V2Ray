@@ -104,7 +104,6 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&se
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 LV | 91.218.143.194
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bbbf096a-a2c2-4ecd-a78b-172cf83e10fc@104.19.255.51:8880?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-ois0u5.cfw-cac.workers.dev&fp=ios&type=ws&sni=zeus-panel-ois0u5.cfw-cac.workers.dev#🇨🇦 CA | 104.19.255.51
@@ -137,6 +136,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22222?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.46.17
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.46.17:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.46.17
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.9.102:22222#🇩🇪 DE | 18.194.9.102
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.143.26
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.143.26
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.143.26
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=sca12.afterdomain.shop#🇨🇦 CA | 104.17.239.248
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&encryption=none&type=ws#🇨🇦 CA | 104.21.41.140
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
