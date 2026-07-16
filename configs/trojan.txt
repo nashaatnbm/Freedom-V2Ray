@@ -50,6 +50,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.25-3864
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.216.76.139-4025
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.152.109-0202
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-203.69.207.175-4064
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-3675
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.74.76-4132
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.152.109-3869
@@ -186,6 +187,7 @@ trojan://MITIVPN@45.130.125.2:443?type=ws&host=De-e-d.App-Cloud.ir&path=/---@MiT
 trojan://MITIVPN@94.140.0.100:443?security=tls&sni=95r.ir&type=ws&path=/MiTiVPN=Usa&Host=95r.ir#%F0%9F%8F%81RELAY-94.140.0.100-0451
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@104.18.37.237:443?type=ws&host=S-W.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&security=tls&fp=chrome&sni=S-o-W.MaQror.ir&alpn=http/1.1#🇨🇦 CA | 104.18.37.237
+trojan://MiTiVPN@104.21.48.168:2053?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl-ss&security=tls&alpn=h2,http/1.1&host=8282-273-3762-183-9.MaqRoR.iR&fp=chrome&type=ws&sni=iri-282-38-38-2.MaqRoR.iR#🇨🇦 CA | 104.21.48.168
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
 trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&type=ws&path=/MiTiVPN=Se&Host=95r.ir#%F0%9F%8F%81RELAY-45.131.4.118-0453
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 LT | 89.116.250.135
@@ -205,7 +207,6 @@ trojan://XG59623478@calm-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%AF%
 trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0089
 trojan://XG59623478@elegant-marten.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.110.183-5930
 trojan://XG59623478@enabling-asp.rooster465.autos:443?security=tls&sni=enabling-asp.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-18.195.11.206-0514
-trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-194.99.79.214-0106
 trojan://XG59623478@logical-ram.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.199.33.127-5960
 trojan://XG59623478@polite-husky.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.112.127.19-5929
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0105
