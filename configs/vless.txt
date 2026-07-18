@@ -37,7 +37,6 @@ vless://50414e45-4c5f-5a45-5553-50c186e6c545@104.16.235.139:443?path=/stream/PAN
 vless://50414e45-4c5f-5a45-5553-d8c448e1cbf6@199.181.197.253:2083?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-kbxb9u.nova25tir.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-kbxb9u.nova25tir.workers.dev#🇺🇸 US | 199.181.197.253
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=/in-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇨🇦 CA | 188.114.97.6
-vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇱🇹 LT | 2.57.91.92
 vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.fdf.vegaskala.com.vegafod.com.&path=/&security=none#🇨🇦 CA | 172.66.156.81
 vless://59da5351-5151-417d-b2f7-6923848b717e@nl4.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=ff776ff77be48b88#🇳🇱 NL | 89.105.202.19
 vless://5d94178f-4236-4ab1-8e67-755acb2c1ca0@172.64.152.23:2053?path=/NitroServer&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=nitronetwork.nitromobile.online&fp=chrome&type=ws&allowInsecure=1&sni=nitronetwork1.nitromobile.online#🇨🇦 CA | 172.64.152.23
@@ -124,9 +123,6 @@ vless://db1aebd3-7599-4d9e-962f-0004ee87119e@tv.myblog.org.tr:25520?security=rea
 vless://dea3172d-b0fe-e53b-f5ea-199e3c135c48@x4g-production-4a16.up.railway.app:443?path=/ws/dea3172d-b0fe-e53b-f5ea-199e3c135c48&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-4a16.up.railway.app&fp=ios&type=ws&sni=x4g-production-4a16.up.railway.app#🇺🇸 US | 69.46.46.49
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 104.24.197.20
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.56.66
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.56.66
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.56.66:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.39.56.66
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.123.79
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.123.79
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.123.79
