@@ -99,6 +99,7 @@ vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#🇩🇪 DE | 185.191.118.67
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?security=reality&encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.buycloud.app&sid=0a30e2aee95a7571#🇫🇮 FI | 45.144.53.120
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇨🇦 CA | 108.162.193.162
 vless://cda9ae20-f69f-4112-be95-90cdfc7a21ae@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/&security=none#🇨🇦 CA | 172.66.156.81
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇸🇪 SE | 172.234.102.122
@@ -143,6 +144,7 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.66.45.6:443?path=/?TELEGRAM-MAR
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 CA | 173.245.58.87
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 CA | 104.18.32.47
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 CA | 172.64.145.202
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇬🇧 GB | 2a06:98c1:3120::
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#🇨🇳 CN | 120.227.1.43
 vless://f4b08984-797f-a3f3-95e1-38acc2748a19@northmusic.ojcenter.com:3468?type=grpc&serviceName=#🇫🇷 FR | 107.161.160.189
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#🇫🇷 FR | 51.77.214.109
@@ -152,6 +154,7 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&t
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#🇨🇦 CA | 104.26.14.85
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#🇺🇸 US | 8.47.69.4
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 CA | 104.26.15.21
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18

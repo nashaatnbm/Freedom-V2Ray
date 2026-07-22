@@ -213,6 +213,7 @@ trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 US | 162.159.38.119
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇺🇸 US | 165.215.250.14
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2255
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2254
 trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-208.103.161.101-3099
 trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#🇸🇨 SC | 45.130.125.2
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6389
