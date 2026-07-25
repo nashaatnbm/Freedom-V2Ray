@@ -77,7 +77,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-5221
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?security=tls&sni=red-cell-47f9.milaniomilan9.workers.dev#%F0%9F%8F%81RELAY-104.25.108.147-2266
 trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-23.227.193.173-5965
-trojan://BxceQaOe@43.207.105.49:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.105.49-5853
 trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.151-0120
 trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-85.234.83.139-5864
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-8238
@@ -100,7 +99,6 @@ trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurat
 trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.225-0184
 trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.24-0168
 trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.178-0157
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#🇳🇱 NL | 89.39.70.222
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.222-0114
 trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.129-0163
 trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.108-0130
@@ -230,7 +228,6 @@ trojan://humanity@104.17.121.71:443?security=tls&sni=www.calmlunch.com&type=ws&p
 trojan://humanity@104.18.152.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.143-0463
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 CA | 104.21.40.34
 trojan://humanity@162.159.38.119:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 US | 162.159.38.119
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 US | 162.159.38.119
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2292
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2290
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2291
