@@ -32,7 +32,6 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?path=/&security=n
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?security=tls&encryption=none&type=ws&host=azadnet05.pages.dev&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev&fp=chrome#🇨🇦 CA | 172.66.47.175
-vless://4fa9e54a-d7c3-4758-8c94-33398e99f6f4@pop.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 78.47.241.232
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=/in-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇨🇦 CA | 188.114.97.6
 vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🏴‍☠️ UN | germany.fast.hosting-ip.com
@@ -134,8 +133,6 @@ vless://e3693df5-32cb-5839-03c2-46111414331b@x4g-production-fd48.up.railway.app:
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.229.237
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.229.237
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.229.237:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.229.237
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.194.134
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.194.134
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Fastspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇨🇦 CA | 167.82.10.79
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=/api/v1/irc#🇺🇸 US | 162.159.38.119
