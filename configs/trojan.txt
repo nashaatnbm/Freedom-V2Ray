@@ -205,6 +205,7 @@ trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2333
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-2335
 trojan://humanity@198.62.62.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.23-0485
+trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷 IR | 2.144.21.112
 trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-208.103.161.101-3157
 trojan://humanity@www.ignitelimit.com:443?security=tls#%F0%9F%8F%81RELAY-104.18.22.63-2304
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6408
