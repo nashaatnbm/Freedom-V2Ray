@@ -154,6 +154,7 @@ trojan://KV63147582@legible-possum.rooster465.autos:443?security=tls&sni=legible
 trojan://KV63147582@more-trout.rooster465.autos:443?security=tls&sni=more-trout.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.172-0154
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.158-0224
 trojan://KV63147582@wondrous-dogfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.137-6090
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6101
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6100
 trojan://MITIVPN@104.17.148.22:8443?security=tls&sni=mehrosaboran---mehrosaboran-7.kingnetwork.ir#%F0%9F%8F%81RELAY-104.17.148.22-3201
 trojan://MITIVPN@45.130.125.2:443?type=ws&host=De-e-d.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&security=tls&fp=chrome&sni=deioej-ieid.App-Cloud.ir&alpn=http/1.1#🇸🇨 SC | 45.130.125.2
@@ -220,16 +221,17 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3209
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0129
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20129?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0135
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3199
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=hkdcrtc-e.catcat321.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3208
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0451
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20085?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0538
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20129?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3211
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2389
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20023?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2297
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3217
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20048?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0453
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3214
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0132
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0388
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3333
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8739
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8741

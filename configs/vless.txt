@@ -166,7 +166,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.levikogjgfdd.ir:8443?encryption=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@one-for-all.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇺🇸 US | 162.159.38.119
 vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?security=reality&encryption=none&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&headerType=none&fp=chrome&spx=/0a1c609a6e82a8c&type=tcp&sni=timeline.www.cloudflare.com&sid=25735c7d0c3dda#🇩🇪 DE | 134.122.85.126
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@18.238.109.26:80?host=duatoup3wk8q2.cloudfront.net&path=/GDkX4xpB/&type=ws#🇺🇸 US | 18.238.109.26
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🇨🇭 CH | 83.228.229.139
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇵🇭 PH | 45.196.201.131
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#🇺🇸 US | 8.47.69.4
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 CA | 2606:4700:20::681a:f15
