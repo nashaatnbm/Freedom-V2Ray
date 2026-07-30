@@ -102,6 +102,7 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&securi
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#🇸🇪 SE | 62.60.159.137
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
+vless://b1067723-1e65-4163-953d-9d80e29122f6@104.194.151.208:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=g5jvQuRdqL4tR79pfiikolnOcOWygUetTMzLGfXFyzs&fp=chrome&spx=/iK2bLGvkRSNm1sB&type=xhttp&sni=www.amd.com&sid=b8e63db837#🇺🇸 US | 104.194.151.208
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws#🇺🇸 US | 162.159.38.119
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#🇺🇸 US | 162.159.38.119
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
@@ -131,7 +132,6 @@ vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?encryption=none&
 vless://d6ff470b-51b3-4fe3-b4db-419f101adc85@104.27.39.172:2086?path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&type=httpupgrade#🇨🇦 CA | 104.27.39.172
 vless://d8b42cd5-a149-4356-9e61-000000000000@195.21.129.117:2553?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇩🇪 DE | 195.21.129.117
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇩🇪 DE | 195.133.18.161
-vless://dce873e4-10be-4d1b-ae61-8b0d551d5bec@nodde.soft88.site:45141?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 158.94.216.167
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#🇪🇸 ES | 5.180.173.248
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 104.24.196.20
