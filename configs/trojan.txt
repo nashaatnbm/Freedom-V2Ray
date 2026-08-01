@@ -5,6 +5,7 @@ trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-5458
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8727
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8729
+trojan://246fb793-8e5e-4015-943e-22f41e4ea4a5@25c5dffa-d858-4b58-bbbb-bfc08e375d23.bnsepserv.com:32029?security=tls&sni=pull-flv-q1-admin.douyincdn.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.40.172-0556
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2528
 trojan://2mhmdxunwxxfsqf0@clean.bitzynet.ir:2087?path=/qwxf6eXBWEQR&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=trojan.bitzynet.ir#🇨🇦 CA | 104.21.12.149
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5973
