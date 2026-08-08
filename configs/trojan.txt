@@ -100,12 +100,14 @@ trojan://IQ68037294@square-anchovy.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.164-6109
 trojan://JT80563429@musical-shrew.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.66.171-6169
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.19-6144
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6175
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6174
 trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🏴‍☠️ UN | 104.19.229.21
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🏴‍☠️ UN | 104.16.72.41
 trojan://MiTiVPN@104.18.32.47:443?security=tls&sni=fls-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR#%F0%9F%8F%81RELAY-104.18.32.47-3197
 trojan://MiTiVPN@104.18.6.178:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.Maqror.ir#🏴‍☠️ UN | 104.18.6.178
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🏴‍☠️ UN | 188.114.97.6
+trojan://MiTiVPN@188.114.97.6:443?type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&security=tls&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&alpn=http/1.1&allowInsecure=1#🏴‍☠️ UN | 188.114.97.6
 trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.168.51-0156
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0141
 trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.31.199-0126
