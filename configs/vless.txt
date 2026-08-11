@@ -95,7 +95,6 @@ vless://b1295591-f4ee-46bd-ab1b-3b97eb575728@162.159.38.119:443?encryption=none&
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🏴‍☠️ UN | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🏴‍☠️ UN | 45.130.125.76
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@88.218.196.52:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🏴‍☠️ UN | 88.218.196.52
-vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🏴‍☠️ UN | tuns.aminicity.ir
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🏴‍☠️ UN | 149.202.58.99
 vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@104.17.108.1:443?encryption=none&type=xhttp&security=tls&path=/api/v2/feed&host=aa.farxmode.ir&mode=packet-up&extra={"headers":{"User-Agent":"Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36"},"xPaddingBytes":"100-1000"}&sni=aa.farxmode.ir&alpn=h2,http/1.1&fp=random#🏴‍☠️ UN | 104.17.108.1
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🏴‍☠️ UN | 199.232.78.159
