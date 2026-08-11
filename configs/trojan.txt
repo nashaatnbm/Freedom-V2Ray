@@ -104,14 +104,12 @@ trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.164-6151
 trojan://JT80563429@musical-shrew.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.66.171-6304
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6316
-trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🏴‍☠️ UN | 104.19.229.21
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6317
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-3350
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🏴‍☠️ UN | 104.16.72.41
 trojan://MiTiVPN@104.18.6.178:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.Maqror.ir#🏴‍☠️ UN | 104.18.6.178
-trojan://MiTiVPN@172.66.40.99:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Flll-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🏴‍☠️ UN | 172.66.40.99
-trojan://MiTiVPN@188.114.97.6:443?alpn=http/1.1&fp=chrome&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&type=ws#🏴‍☠️ UN | 188.114.97.6
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🏴‍☠️ UN | 188.114.97.6
-trojan://MiTiVPN@199.232.78.140:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🏴‍☠️ UN | 199.232.78.140
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🏴‍☠️ UN | 151.101.110.219
 trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.168.51-0184
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0204
 trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.175.151-0245
@@ -248,7 +246,6 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0454
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3465
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8973
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8975
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@5344gt5.cloudflare.182682.xyz:443?security=tls&sni=ttt1.ttttlefjljl.xyz&type=ws&path=%2Fimages&Host=ttt1.ttttlefjljl.xyz#%F0%9F%8F%81RELAY-104.21.224.5-2471
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&type=ws&path=%2Fimages&Host=aeryy5gfrp630ww1.lovebaipiao.net#%F0%9F%87%B7%F0%9F%87%BARU-45.9.15.188-2469
 trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@cdn2.bpcdn.cc:443?security=tls&sni=ehofhoe.bpuk2026.top&type=ws&path=%2Fimages&Host=ehofhoe.bpuk2026.top#%F0%9F%8F%81RELAY-172.64.146.66-2475
@@ -293,7 +290,6 @@ trojan://humanity@104.19.229.21:443?security=tls#%F0%9F%8F%81RELAY-104.19.229.21
 trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.21.46.3-2213
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.14.137-2493
 trojan://humanity@162.159.136.234:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-162.159.136.234-3319
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🏴‍☠️ UN | 172.67.149.60
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🏴‍☠️ UN | 172.67.149.60
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-3343
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.149.60-2492
