@@ -103,6 +103,7 @@ vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&s
 vless://bb6c32f5-69de-3113-45d7-0dc78821038b@69.46.46.123:443?path=/ws/bb6c32f5-69de-3113-45d7-0dc78821038b&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-31bf.up.railway.app&fp=chrome&type=ws&sni=x4g-production-31bf.up.railway.app#🇺🇸 US | 69.46.46.123
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?path=/vless&security=tls&encryption=none&host=admin.jikebet.com&fp=ios&type=ws&sni=admin.jikebet.com#🇨🇦 CA | 172.64.80.1
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&sni=max.ru&fp=firefox&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺 RU | 188.225.33.206
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇨🇦 CA | 108.162.193.162
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.37:2053?path=/&security=tls&encryption=none&host=forfreeuse.rtqa.ru&type=ws&sni=forfreeuse.rtqa.ru#🇩🇪 DE | 188.241.241.37
 vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.37:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#🇩🇪 DE | 188.241.241.37
