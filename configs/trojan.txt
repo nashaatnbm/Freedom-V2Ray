@@ -215,6 +215,7 @@ trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com#%F0%9F
 trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.37-1106
 trojan://humanity@104.16.174.44:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.44-1102
 trojan://humanity@104.16.174.72:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.72-1098
+trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.17.111.1
 trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.3-1097
 trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.4-1109
 trojan://humanity@104.18.152.143:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.143-1105
