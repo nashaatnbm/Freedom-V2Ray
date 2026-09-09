@@ -137,7 +137,6 @@ trojan://NQ26071394@emerging-baboon.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.7.106-4823
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.231.219-4856
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.70.161.72-4834
-trojan://NQ26071394@grand-grub.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.54.120-4835
 trojan://NQ26071394@guided-pelican.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.112.57-0252
 trojan://NQ26071394@helped-jennet.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.216.104.24-4730
 trojan://NQ26071394@internal-peacock.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.132.193-4902
