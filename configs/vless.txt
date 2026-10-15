@@ -125,9 +125,6 @@ vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none
 vless://e13be81031933026d3ea05e4fc8b4b62@69.46.46.71:443?path=/ws/e13be81031933026d3ea05e4fc8b4b62&security=tls&alpn=http/1.1&encryption=none&host=core-416959-e3ee42-production.up.railway.app&fp=chrome&type=ws&sni=core-416959-e3ee42-production.up.railway.app#🇺🇸 US | 69.46.46.71
 vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/?TELEGRAM------TOOTFFARANGI&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#🇺🇸 US | 199.232.78.159
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.172.161:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.172.161
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.172.161:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.172.161
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.172.161:22224?encryption=none&security=none&type=tcp#🏴‍☠️ UN | 15.224.172.161
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.24.141:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.24.141
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.24.141:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.24.141
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.24.141:22223?encryption=none&security=none&type=tcp#🏴‍☠️ UN | 51.45.24.141
