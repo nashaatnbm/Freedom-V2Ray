@@ -82,7 +82,6 @@ trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7175
 trojan://Tg3RnK7Xp8B1@64.176.96.237:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-64.176.96.237-0446
 trojan://Trojan@82164024@108.61.186.37:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-108.61.186.37-5487
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com#%F0%9F%87%A8%F0%9F%87%A6CA-155.138.138.2-5332
 trojan://Trojan@82164024@in.tronsg.com:443?security=tls&sni=in.tronsg.com#%F0%9F%87%AE%F0%9F%87%B3IN-139.84.132.62-5459
 trojan://Trojan@82164024@jp.tronsg.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-108.61.186.37-5483
 trojan://UX82473651@3.1.252.137:443?security=tls&sni=brave-tomcat.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-3.1.252.137-0154
@@ -161,8 +160,13 @@ trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@185.22.172.249:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-185.22.172.249-0466
 trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.220.100.168-0432
 trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.255.179.166-0431
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🏴‍☠️ UN | 188.114.97.6
+trojan://humanity@188.114.97.6:443?path=/assignment?ed#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&sni=www.pleadcourt.org&alpn=http/1.1&ech=dolts.ir+udp://1.1.1.1&host=www.pleadcourt.org&path=/assignment#🇨🇦 CA | 188.114.97.6
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.7
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.pleadcourt.org&path=/assignment#🇨🇦 CA | 188.114.98.0
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0441
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0736
 trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0433
@@ -179,8 +183,9 @@ trojan://humanity@46.8.228.165:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-46.8.
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org#%F0%9F%8F%81RELAY-8.47.69.0-1445
 trojan://humanity@92.42.99.143:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-92.42.99.143-0468
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.8.83-0435
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.17.147.22
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.17.148.22
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 104.17.147.22
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 104.17.148.22
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 104.17.147.22
 trojan://i99Cef@209.248.32.116:28101?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.248.32.116-5517
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7184
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5888
