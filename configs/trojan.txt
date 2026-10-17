@@ -175,6 +175,7 @@ trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-45.130.125.160-0734
 trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%B3%F0%9F%87%B1NL-45.87.41.18-0434
 trojan://humanity@46.62.204.134:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-46.62.204.134-0467
+trojan://humanity@46.8.228.165:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-46.8.228.165-0465
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org#%F0%9F%8F%81RELAY-8.47.69.0-1445
 trojan://humanity@92.42.99.143:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-92.42.99.143-0468
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.8.83-0435
