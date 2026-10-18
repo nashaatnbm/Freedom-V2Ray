@@ -104,6 +104,7 @@ trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/Fu
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.19.229.21-0478
 trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137-4834
 trojan://humanity@143.246.136.156:443?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-143.246.136.156-0488
+trojan://humanity@157.173.97.132:443?security=tls&sni=wWw.Volumeroot.cOm.&type=ws&path=/assignment&Host=wWw.Volumeroot.cOm.#%F0%9F%87%AB%F0%9F%87%B7FR-157.173.97.132-0495
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-162.159.91.211-0747
 trojan://humanity@164.92.200.68:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AADE-164.92.200.68-0489
 trojan://humanity@165.215.250.14:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-0477
@@ -117,7 +118,6 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&i
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#🇨🇦 CA | 188.114.97.6
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.98.0
 trojan://humanity@188.114.98.0:443?path=/assignment?ed#🇨🇦 CA | 188.114.98.0
 trojan://humanity@209.38.37.132:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-209.38.37.132-0487
 trojan://humanity@209.38.99.120:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-209.38.99.120-0491
