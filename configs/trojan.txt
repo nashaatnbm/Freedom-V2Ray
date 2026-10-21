@@ -43,9 +43,7 @@ trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59019?security
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59021?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0510
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59023?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0499
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59024?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0500
-trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59028?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0505
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59099?security=tls&sni=www.lamer.com.hk#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0506
-trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@pokemoniplc-02.waimaosass.icu:55046?security=tls&sni=www.lamer.com.hk#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0502
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@pokemoniplc-02.waimaosass.icu:56019?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0514
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@pokemoniplc-02.waimaosass.icu:59111?security=tls&sni=www.apple.com.cn#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0507
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.72.126-2726
@@ -143,7 +141,6 @@ trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#%F
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6892
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6890
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6896
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.180.146.200-0462
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-7710
 trojan://e35026da-e985-49ca-b43b-276062a535a6@notdirect.howhealthyistoomajreally.homes:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.211-6701
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-7561
@@ -194,7 +191,7 @@ trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLAN
 trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
+trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0429
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1993
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-4841
