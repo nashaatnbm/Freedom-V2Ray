@@ -103,7 +103,6 @@ vless://c1a3a6ee-34d3-4fcd-8763-c2231adabed6@146.75.59.186:443?pcs=CD6E838B9BFE3
 vless://c1a3a6ee-34d3-4fcd-8763-c2231adabed6@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=albaniaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#🇺🇸 US | 146.75.57.238
 vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@jsv-ir.jmovies.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aparat.com&fp=firefox&insecure=1&allowInsecure=1&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff&spx=/#🇮🇷 IR | 5.159.54.102
 vless://c635f33d-e390-4964-abac-99f1a4fc41d4@162.159.193.4:443?security=tls&encryption=none&sni=api.trustpacket.ir&type=ws&path=/&alpn=h2,h3&allowInsecure=0&fp=chrome&host=api.trustpacket.ir&insecure=0#🇨🇦 CA | 162.159.193.4
-vless://c7df4e87-909a-41fc-a7c3-600df08c0d34@fly.lumexa.ir:443?security=reality&encryption=none&pbk=0E-OTXVHsukKvwgwynrI49nTaT5m6rxdaFPg4D_UszI&headerType=&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dynu.com&sid=9cc0#🇩🇪 DE | 167.233.147.148
 vless://cda9ae20-f69f-4112-be95-90cdfc7a21ae@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/&security=none#🇨🇦 CA | 172.66.156.81
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇨🇦 CA | 188.114.97.4
 vless://d0136cca-a5a5-4c70-87dd-ce2ef76b7f82@199.232.20.113:443?encryption=none&security=tls&sni=www.firefox.com&fp=chrome&alpn=h2&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&host=fcdsxalkkkp.global.ssl.fastly.net&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto","xPaddingBytes":"0-0"}#🇺🇸 US | 199.232.20.113
@@ -121,9 +120,6 @@ vless://dcf8e133-09a2-4884-abf9-80356bb334ac@93.123.101.215:443?security=reality
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 2606:4700:20::6818:c414
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.157.208:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.157.208
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.157.208:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.157.208
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.157.208:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.157.208
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.13.152
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.13.152
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.13.152
