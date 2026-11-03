@@ -4,20 +4,16 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls#%F0%9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.193-0571
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.198-0146
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.52-0147
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 US | 169.197.140.169
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8US-169.197.140.218-1980
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-170.101.101.131-0574
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?security=tls&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8US-170.101.101.19-0150
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8US-170.101.101.53-0157
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 US | 170.101.101.67
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8US-170.101.101.67-0155
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.15-0194
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.29-0207
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.78-0543
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com#🇩🇪 DE | 193.108.119.96
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&sni=learn.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.96-0211
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.19-0539
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=learn.yourultimateprofessionalcareerhub.com&type=tcp#🇨🇭 CH | 208.69.78.29
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.152-0192
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&sni=courses.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.48-0191
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0188
@@ -26,10 +22,11 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls#%F0%9F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.93-0536
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.158-0179
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.176-0152
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.23-0148
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0168
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.42-0198
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=&type=tcp#🇺🇸 US | 216.152.156.42
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.65-0197
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.81-0182
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls#%F0%9F%87%A7%F0%9F%87%B7BR-216.238.104.154-0532
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0202
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls#%F0%9F%87%A8%F0%9F%87%B1CL-64.176.7.205-0540
@@ -42,6 +39,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=ww
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&sni=learn.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.166-0243
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&sni=api.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.244-0252
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&sni=resources.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.251-0254
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&sni=courses.discovergreatjobsandadvanceyourcareer.com#%F0%9F%87%AA%F0%9F%87%B8ES-66.163.118.62-0216
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.26-1981
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.7-0219
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-66.163.127.155-3070
@@ -116,6 +114,7 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tl
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-157.90.33.73-6559
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3871
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4583
+trojan://8dc86561-24f9-4bf7-99de-1373640859eb@zz.usxyt.fogvip-zz.uk:50701?security=tls&sni=ld.usxyt.yuiuingkig.icu#%F0%9F%87%A8%F0%9F%87%A6CA-155.254.101.48-0604
 trojan://8dc86561-24f9-4bf7-99de-1373640859eb@zz.xgb.fogvip-zz.uk:40024?security=tls&sni=ld.xghk03.yuiuingkig.icu#%F0%9F%87%AD%F0%9F%87%B0HK-161.81.200.26-0602
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@104.18.43.20:2087?security=tls&sni=api.85s.me#%F0%9F%8F%81RELAY-104.18.43.20-3124
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@104.21.0.5:443?security=tls&sni=api.85s.me#%F0%9F%8F%81RELAY-104.21.0.5-3119
@@ -136,13 +135,10 @@ trojan://8deb189a-3aed-4865-843b-b72dae954c46@172.64.229.135:443?security=tls&sn
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@175.41.232.194:443?security=tls&sni=api.85s.me#%F0%9F%87%AF%F0%9F%87%B5JP-175.41.232.194-3112
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.253.225.34:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.253.225.34-3136
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.253.226.191:8443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.253.226.191-3135
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.253.255.7:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.253.255.7-3130
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.102.237:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.255.102.237-3137
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.115.161:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.255.115.161-3133
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.118.250:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.255.118.250-3138
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.136.237:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.255.136.237-3134
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.141.28:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-179.255.141.28-3140
-trojan://8deb189a-3aed-4865-843b-b72dae954c46@193.163.19.232:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-193.163.19.232-3139
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@45.139.193.156:443?security=tls&sni=api.85s.me#%F0%9F%87%BA%F0%9F%87%B8US-45.139.193.156-3131
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@5.75.244.105:443?security=tls&sni=api.85s.me#%F0%9F%87%A9%F0%9F%87%AADE-5.75.244.105-3102
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?security=tls&sni=api.85s.me#%F0%9F%87%B9%F0%9F%87%BCTW-83.147.15.84-3129
@@ -372,7 +368,6 @@ trojan://humanity@45.130.125.32:443?security=tls&sni=www.calmloud.com&type=ws&pa
 trojan://humanity@45.130.125.75:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-45.130.125.75-1000
 trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%B3%F0%9F%87%B1NL-45.87.41.18-0548
 trojan://humanity@5.44.46.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-5.44.46.142-0556
-trojan://humanity@78.40.209.33:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%B8US-78.40.209.33-5938
 trojan://humanity@8.47.69.0:443?type=ws&security=tls&sni=www.pleadcourt.org&alpn=http/1.1&fp=chrome&path=/assignment#🇺🇸 US | 8.47.69.0
 trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-86.38.214.205-1133
 trojan://humanity@89.116.46.68:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-89.116.46.68-1056
@@ -386,7 +381,6 @@ trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-8039
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@199.232.9.244:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=1&sni=ns1.firefox.com#🇺🇸 US | 199.232.9.244
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3214
 trojan://trojan@104.18.12.229:8443?security=tls&sni=longwanghen.pages.dev#%F0%9F%8F%81RELAY-104.18.12.229-3132
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3723
